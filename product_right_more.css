@@ -168,7 +168,7 @@ div.buyers ul li span
     width: 119px;
     height: 30px;
     line-height: 30px;
-    background-image: url(images/iconlist_1.png);
+    background-image: url(Images/iconlist_1.png);
     background-repeat: no-repeat;
     background-position: -142px -390px;
 }
@@ -177,7 +177,7 @@ div.buyers ul li span
 {
     margin-bottom: 10px;
     padding-top: 2px;
-    background: url(images/tab.png) 0 -41px repeat-x;
+    background: url(Images/tab.png) 0 -41px repeat-x;
 }
 #comment_list>div
 {
@@ -214,7 +214,7 @@ div.buyers ul li span
     width: 50px;
     height: 50px;
     padding: 8px;
-    background: url(images/avatar-bg.png) no-repeat 0 0;
+    background: url(Images/avatar-bg.png) no-repeat 0 0;
     vertical-align: middle;
 }
 .comment_item ul li b
@@ -243,7 +243,7 @@ div.topic p
     float: left;
     margin: 1px 0 3pxs 5px;
     background-position: -109px -239px;
-    background-image: url(images/iconlist_1.png);
+    background-image: url(Images/iconlist_1.png);
     background-repeat: no-repeat;
     display: inline-block;
     width: 75px;
@@ -464,7 +464,7 @@ div.corner
     width: 14px;
     height: 26px;
     background-position: -259px -47px;
-    background-image: url(images/iconlist_1.png);
+    background-image: url(Images/iconlist_1.png);
     background-repeat: no-repeat;
 }
 /*评论的页码*/
@@ -517,7 +517,7 @@ a.comment_show_all
 {
     margin-bottom: 10px;
     padding-top: 2px;
-    background: url(images/tab.png) 0 -41px repeat-x;
+    background: url(Images/tab.png) 0 -41px repeat-x;
 }
 #consult .m_content
 {
@@ -537,7 +537,7 @@ a.comment_show_all
     height: 25px;
     border: 0;
     background-position: -103px -112px;
-    background-image: url(images/iconlist_1.png);
+    background-image: url(Images/iconlist_1.png);
     background-repeat: no-repeat;
     cursor: pointer;
     padding: 1px 6px;
@@ -632,7 +632,7 @@ li.consult_answer_time
 }
 #consult_extra a.offline
 {
-    background: url(images/words.png) 0 0 no-repeat;
+    background: url(Images/words.png) 0 0 no-repeat;
     padding-left: 27px;
     margin-left:5px;
     width: 59px;
@@ -659,7 +659,7 @@ li.consult_answer_time
 {
     margin-bottom: 10px;
     padding-top: 2px;
-    background: url(images/tab.png) 0 -41px repeat-x;
+    background: url(Images/tab.png) 0 -41px repeat-x;
 }
 /*表格*/
 #discuss-datas
@@ -708,7 +708,7 @@ b.topic
     padding-left: 20px;
     line-height: 19px;
     background-repeat: no-repeat;                
-    background-image: url(images/iconlist_1.png);
+    background-image: url(Images/iconlist_1.png);
 }
 
 .shai{background-position: -110px -220px;}

@@ -2,7 +2,7 @@
 
 body,a
 {
-	font: 12px "Î¢ï¿½ï¿½ï¿½Åºï¿½", Arial, Helvetica, sans-serif;
+	font: 12px "Î¢ÈíÑÅºÚ", Arial, Helvetica, sans-serif;
 	color:#666;
 }
 *
@@ -81,12 +81,12 @@ a:hover {text-decoration:underline;}
 }
 li.vip a
 {
-    background:url(images/vip.jpg) left center no-repeat;
+    background:url(Images/vip.jpg) left center no-repeat;
     padding-left:30px;
 }
 li.dakehu a
 {
-    background:url(images/dakehu.jpg) left center no-repeat;
+    background:url(Images/dakehu.jpg) left center no-repeat;
     padding-left:30px;
 }
 li.app_jd label,li.service label,li.site_nav label
@@ -102,7 +102,7 @@ li.app_jd label,li.service label,li.site_nav label
 }
 li.app_jd label
 {
-    background:url(images/iconlist_2.png) -126px -357px no-repeat;
+    background:url(Images/iconlist_2.png) -126px -357px no-repeat;
     padding-left:20px;
 }
 li.app_jd label:hover,li.service label:hover,li.site_nav label:hover
@@ -115,16 +115,16 @@ li.app_jd label:hover,li.service label:hover,li.site_nav label:hover
 } 
 li.app_jd label:hover
 {
-    background:#fff url(images/iconlist_2.png) -126px -397px no-repeat;
+    background:#fff url(Images/iconlist_2.png) -126px -397px no-repeat;
 } 
 li.app_jd  label a,li.service label a,li.site_nav label a
 { 
     padding:8px 19px 5px 0px;
-    background:url(images/jt_down.jpg) 55px center no-repeat;
+    background:url(Images/jt_down.jpg) 55px center no-repeat;
 }
 li.app_jd  label a:hover,li.service label a:hover,li.site_nav label a:hover
 {
-    background:url(images/jt_up.jpg) 55px center no-repeat;
+    background:url(Images/jt_up.jpg) 55px center no-repeat;
 }
 
 
@@ -141,7 +141,7 @@ li.app_jd  label a:hover,li.service label a:hover,li.site_nav label a:hover
     border:1px solid #DDD;
     border-top:1px solid #fff;
     box-shadow:0 0 10px #DDD;
-    background:#fff url(images/app_jd_1.png) 10px 10px no-repeat;
+    background:#fff url(Images/app_jd_1.png) 10px 10px no-repeat;
 }
 #app_jd_items div.app,#app_jd_items div.bank
 {
@@ -151,11 +151,11 @@ li.app_jd  label a:hover,li.service label a:hover,li.site_nav label a:hover
 #app_jd_items div.app
 {
 
-    background:url(images/app_jd_erwei.jpg) 15px center no-repeat;
+    background:url(Images/app_jd_erwei.jpg) 15px center no-repeat;
 }
 #app_jd_items div.bank
 {
-     background:url(images/app_jd_wangyin.png) 15px center no-repeat;
+     background:url(Images/app_jd_wangyin.png) 15px center no-repeat;
 }
 #app_jd_items h3
 {
@@ -172,11 +172,11 @@ li.app_jd  label a:hover,li.service label a:hover,li.site_nav label a:hover
 }
 #app_jd_items a.app
 {
-    background:url(images/iconlist_2.png) 0px -360px no-repeat;
+    background:url(Images/iconlist_2.png) 0px -360px no-repeat;
 }
 #app_jd_items a.android
 {
-    background:url(images/iconlist_2.png) 0px -399px no-repeat;
+    background:url(Images/iconlist_2.png) 0px -399px no-repeat;
 }
 
 
@@ -360,7 +360,7 @@ div.hot_words span
 }
 div.my_jd_mt
 {
-    background-image: url(images/iconlist_2.png);
+    background-image: url(Images/iconlist_2.png);
     background-repeat: no-repeat;
     height: 30px;
     padding: 0 4px 0 30px;
@@ -443,7 +443,7 @@ div.my_jd_mt:hover
 }
 div.settle_up_mt
 {
-    background-image: url(images/iconlist_2.png);
+    background-image: url(Images/iconlist_2.png);
     background-repeat: no-repeat;
     height: 30px;
     padding: 0 10px 0 30px;
@@ -500,7 +500,7 @@ div.settle_up_mt:hover
     display:inline-block;
     width:56px;
     height:49px;
-    background-image: url(images/iconlist_2.png);
+    background-image: url(Images/iconlist_2.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     vertical-align:middle;
@@ -791,11 +791,11 @@ div.close
     line-height:30px;
  }
   #foot_box a:hover {color:#ff0700;}
- p.shopping_guide {background:url(images/iconlist_2.png) 0px -55px no-repeat;}
-p.send_type {background:url(images/iconlist_2.png) -50px -55px no-repeat;}
-p.pay_type {background:url(images/iconlist_2.png) 0px -102px no-repeat;}
-p.sale_service {background:url(images/iconlist_2.png) -50px -102px no-repeat;}
-p.special_service {background:url(images/iconlist_2.png) 0px -149px no-repeat;}
+ p.shopping_guide {background:url(Images/iconlist_2.png) 0px -55px no-repeat;}
+p.send_type {background:url(Images/iconlist_2.png) -50px -55px no-repeat;}
+p.pay_type {background:url(Images/iconlist_2.png) 0px -102px no-repeat;}
+p.sale_service {background:url(Images/iconlist_2.png) -50px -102px no-repeat;}
+p.special_service {background:url(Images/iconlist_2.png) 0px -149px no-repeat;}
 
 
 #footer
@@ -959,7 +959,7 @@ p.special_service {background:url(images/iconlist_2.png) 0px -149px no-repeat;}
     text-align: center;
     line-height: 14px;
     background-repeat: no-repeat;
-    background-image:url("images/iconlist_2.png");
+    background-image:url("Images/iconlist_2.png");
 }
 #side_panel a b
 {
@@ -968,7 +968,7 @@ p.special_service {background:url(images/iconlist_2.png) 0px -149px no-repeat;}
     width: 17px;
     height: 16px;
     overflow: hidden;
-    background-image: url("images/iconlist_2.png");
+    background-image: url("Images/iconlist_2.png");
     background-repeat: no-repeat;
 }
 #side_panel a.research b

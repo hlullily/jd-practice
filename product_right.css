@@ -11,7 +11,7 @@
 {
     margin-bottom: 10px;
     padding-top: 2px;
-    background: url(images/tab.png) 0 -41px repeat-x;
+    background: url(Images/tab.png) 0 -41px repeat-x;
 }
 p.main_tabs
 {
@@ -67,7 +67,7 @@ span.add
     margin-top: 40px;
     margin-bottom: 80px;
     margin-right: 3px;
-    background-image: url(images/iconlist_1.png);
+    background-image: url(Images/iconlist_1.png);
     background-repeat: no-repeat;
     background-position: 0 -260px;
 }
@@ -113,7 +113,7 @@ span.add
     height: 22px;
     background-position: -30px -260px;
     margin-top: 40px;
-    background-image: url(images/iconlist_1.png);
+    background-image: url(Images/iconlist_1.png);
     background-repeat: no-repeat;
     line-height: 20px;
 }
@@ -151,7 +151,7 @@ span.add
     line-height: 25px;
     color: #fff;
     font-weight: 700;
-    background-image: url(images/iconlist_1.png);
+    background-image: url(Images/iconlist_1.png);
     background-repeat: no-repeat;
     background-position: -166px -112px;
     text-decoration:none;
